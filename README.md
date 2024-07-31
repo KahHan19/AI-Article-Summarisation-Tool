@@ -1,30 +1,28 @@
 # AI Article Summarization Tool
 
-This tool is designed to efficiently extract and summarize information from news articles. By providing article URLs and a relevant question, users can quickly obtain accurate, concise answers based on the content of the articles.
+Effortlessly extract and summarize information from news articles with our tool. Simply provide article URLs and a relevant question to receive accurate, concise answers based on the article content.
 
 ![UI](example.png)
 
+## 🚀 Libraries and Technologies
 
+- **GPT-4**: Advanced language understanding and generation.
+- **LangChain**: Seamless integration and processing of language models.
+- **FAISS Vector Store**: Efficient vector indexing and search for enhanced performance.
+- **Streamlit**: User-friendly, interactive interface for a smooth experience.
 
-
-## Libraries and Technologies
-
-- **GPT-4**: Leveraged for advanced language understanding and generation.
-- **LangChain**: Facilitates seamless integration and processing of language models.
-- **FAISS Vector Store**: Enhances performance through efficient vector indexing and search.
-- **Streamlit**: Powers a user-friendly, interactive interface for a smooth experience.
-
-## Features
+## 🌟 Features
 
 ### Interactive Functionality
-- **Search**: Users can input up to three article URLs.
-- **Question**: Users can ask specific questions related to the content of these articles.
-- **Answer**: The tool generates a summarized response, ranking sources used by relevance.
+- **Search**: Input up to three article URLs for analysis.
+- **Question**: Ask specific questions related to the content of these articles.
+- **Answer**: Receive a summarized response, with answers ranked by relevance.
 
-### Technical Requirements
-- **Locally Hosted**: Ensures enhanced security by running the server on local infrastructure.
-- **User-Friendly Interface**: Streamlit-based design for a seamless and intuitive user experience.
-- **Integration of GPT-4 and LangChain**: Utilizes cutting-edge language models to improve query processing and answer accuracy.
-- **FAISS Integration**: Implements Facebook AI Similarity Search for efficient and fast vector indexing.
+### ⚙ Technical Requirements
+- **Locally Hosted**: Ensures enhanced security by operating on local infrastructure.
+- **User-Friendly Interface**: Designed with Streamlit for an intuitive user experience.
+- **GPT-4 and LangChain Integration**: Utilizes cutting-edge language models for improved query processing and answer accuracy.
+- **FAISS Integration**: Efficient and fast vector indexing with Facebook AI Similarity Search.
 
-
+## Future Work
+- Consider better pre-trained LLM models, one trained with more layer and able to process data with more complexity.

@@ -19,7 +19,7 @@ This tool is designed to efficiently extract and summarize information from news
 ### Interactive Functionality
 - **Search**: Users can input up to three article URLs.
 - **Question**: Users can ask specific questions related to the content of these articles.
-- **Answer**: The tool generates a summarized response, ranking answers by relevance.
+- **Answer**: The tool generates a summarized response, ranking sources used by relevance.
 
 ### Technical Requirements
 - **Locally Hosted**: Ensures enhanced security by running the server on local infrastructure.

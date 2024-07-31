@@ -2,7 +2,7 @@
 
 This tool is designed to efficiently extract and summarize information from news articles. By providing article URLs and a relevant question, users can quickly obtain accurate, concise answers based on the content of the articles.
 
-
+![UI](example.png)
 
 
 
